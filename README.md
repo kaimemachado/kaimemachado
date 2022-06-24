@@ -1,8 +1,4 @@
-## Olá! Me chamo Kaime Machado
-
-- 🔭 Atualmente estou a procura de um estágio
-- 🌱 Estou estudando JavaScript
-- 😄 Pronouns: ela/dela
+## Olá! Me chamo Kaime Machado 
 
  <a href="https://github.com/kaimemachado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaimemachado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
