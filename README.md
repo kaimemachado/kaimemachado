@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaime-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaime-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Kaime-pic" height="250" style="border-radius:50px;" src="https://octodex.github.com/images/mona-the-rivetertocat.png">
+  <img align="right" alt="Kaime-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/mona-the-rivetertocat.png">
 </div>
 
 ##
